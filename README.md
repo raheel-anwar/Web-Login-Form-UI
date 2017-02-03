@@ -10,6 +10,6 @@
 
 <h4>Screenshots</h4>
 <ol>
-<ul>https://goo.gl/photos/LcTCcJgGQDsJSqRx9</ul>
-<ul>https://goo.gl/photos/TPEJ6f3TixD6ZKuR9</ul>
+<li>https://goo.gl/photos/LcTCcJgGQDsJSqRx9</li>
+<li>https://goo.gl/photos/TPEJ6f3TixD6ZKuR9</li>
 </ol>
