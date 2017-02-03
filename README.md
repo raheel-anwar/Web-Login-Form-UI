@@ -5,5 +5,5 @@
 <li>HTML, CSS, JavaScript</li>
 <li>Responsive layout</li>
 <li>Mobile friendly</li>
-<li>Tested on Mozilla, Chrome and IE 10</li>
+<li>Tested on Mozilla, Chrome and IE 11</li>
 </ul>
