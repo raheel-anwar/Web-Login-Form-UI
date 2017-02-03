@@ -7,3 +7,6 @@
 <li>Mobile friendly</li>
 <li>Tested on Mozilla, Chrome and IE 11</li>
 </ul>
+
+<h4>Screenshots</h4>
+<p>https://goo.gl/photos/LcTCcJgGQDsJSqRx9</p>
