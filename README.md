@@ -9,5 +9,7 @@
 </ul>
 
 <h4>Screenshots</h4>
-<p>https://goo.gl/photos/LcTCcJgGQDsJSqRx9</p>
-<p>https://goo.gl/photos/TPEJ6f3TixD6ZKuR9</p>
+<ol>
+<ul>https://goo.gl/photos/LcTCcJgGQDsJSqRx9</ul>
+<ul>https://goo.gl/photos/TPEJ6f3TixD6ZKuR9</ul>
+</ol>
