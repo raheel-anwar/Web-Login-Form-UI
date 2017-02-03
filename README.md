@@ -1,6 +1,6 @@
 # Web-Login-Form-UI
 
-<h4>General purpose login form UI</h4>
+<h3>General purpose login form UI</h3>
 <ul>
 <li>HTML, CSS, JavaScript</li>
 <li>Responsive layout</li>
