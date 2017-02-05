@@ -1,4 +1,4 @@
-function formDefaultText() {
+function mainFunction() {
 	var user = document.getElementById("username");
 	var pass = document.getElementById("password");
 
@@ -29,5 +29,5 @@ function formDefaultText() {
 }
 
 window.onload = function () {
-	formDefaultText();
+	mainFunction();
 }
